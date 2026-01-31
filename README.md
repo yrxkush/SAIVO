@@ -72,6 +72,3 @@ The AI served as a coding assistant, similar to having a knowledgeable pair prog
 
 This project is for personal/educational use.
 
-## 👤 Author
-
-Built with ❤️ and AI assistance
